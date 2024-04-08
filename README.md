@@ -1,4 +1,4 @@
-# springboot-bicroservice-books
+# springboot-microservice-books
 Creating a Simple Microservice for online books catalog service
 
 Step 1: Create a Maven project “limits-service” using Spring Initializr https://start.spring.io/
